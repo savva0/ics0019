@@ -101,7 +101,7 @@ ttu_canteens = [
     {
         "Name": "U06 building canteen",
         "Location": "Ehitajate tee 5 U06 building",
-        "ProviderName": "Rahva toit",
+        "ProviderName": "Rahva Toit",
         "time_open": "9:00",
         "time_closed": "16:00"
     },

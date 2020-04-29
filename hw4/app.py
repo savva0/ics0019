@@ -10,7 +10,8 @@ import json
 URL = "https://www.osta.ee/en/category/computers/"
 
 # Upper limit for pages to querry
-LIMIT = 7
+# No limit if set to 0
+LIMIT = 0
 
 def main():
 
